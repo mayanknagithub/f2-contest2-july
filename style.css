@@ -1,0 +1,246 @@
+*{
+    background-color: #000000;
+    margin: 0;
+}
+.social{
+    height: 20px;
+    width: 20px;
+}
+.header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: 'Ruda', sans-serif;
+    height: 50px;
+}
+h2{
+    color: #FFFFFF;
+}
+li{
+    display: inline;
+    padding: 20px;
+    font-weight: 400;
+}
+a{
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: small;
+}
+.social-media{
+    display: flex;
+    justify-content: space-between;
+}
+ul{
+    margin-left: -55px;
+}
+img{
+    padding: 15px;
+}
+.img-section{
+    margin-top: 5px;
+    width: 1360px;
+    height: 800px;
+    background-image: url(pizza\ image\ 2.jpg);
+    background-size: cover;
+}
+.text-on-image{
+    background: transparent;
+    color: white;
+    font-size: 71px;
+    margin-right: 700px;
+    font-family: 'Quattrocento', serif;
+    position: absolute;
+    left: 80px;
+    top: 130px;
+}
+.underline{
+    height: 10px;
+    width: 350px;
+    background-color: #F24C4C;
+    position: absolute;
+    top: 330px;
+    left: 90px;
+}
+.para-on-image{
+    position: absolute;
+    top: 400px;
+    color: #FFFFFF;
+    background: transparent;
+    font-size: 25px;
+    font-family: 'Ruda', sans-serif;
+    margin-right: 900px;
+    margin-left: 100px;
+}
+.about-us{
+    color: #FFFFFF;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+    font-family: 'Quattrocento', serif;
+}
+.underline1{
+    height: 5px;
+    width: 350px;
+    background-color: #F24C4C;
+    position: absolute;
+    left: 500px;
+    margin-top: 10px;
+}
+.plaiting{
+    width: 500px;
+    height: 400px;
+    border: none;
+    border-radius: 20px;
+}
+.content{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 80px;
+}
+.para{
+    font-size: 25px;
+    font-family: 'Ruda', sans-serif;
+    margin-top: 10px;
+    text-align: left;
+    font-size: 25px;
+    font-style: normal;
+    border-top: 5px solid #F24C4C;
+    padding-top: 20px;
+}
+.menu > h1{
+    color: #FFFFFF;
+    text-align: center;
+    margin-top: 70px;
+    font-family: 'Quattrocento', serif;
+}
+.para1{
+    font-size: 25px;
+    color: #FFFFFF;
+    font-family: 'Ruda', sans-serif;
+    margin-top: 50px;
+    text-align: left;
+    font-weight: 100;
+    font-style: normal;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.menu-img{
+    height: 200px;
+    width: 250px;
+    border-radius: 30px;
+}
+.item-para{
+    color: #FFFFFF;
+    font-size: 20px;
+    font-family: 'Ruda', sans-serif;
+
+}
+.menu-container{
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-top: 70px;
+}
+.item1{
+    color: #FFFFFF;
+    display: flex;
+    width: 45%;
+    margin-bottom: 20px;
+}
+.item-heading{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: 'Ruda', sans-serif;
+    color: #F2C94C;
+}
+.menu-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.find-us{
+    color: #FFFFFF;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+    font-family: 'Quattrocento', serif;
+}
+.content1{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 80px;
+}
+.map{
+    width: 550px;
+}
+.location{
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 40px;
+    font-size: 20px;
+    color: #FFFFFF;
+    font-family: 'Ruda', sans-serif;
+}
+.phone{
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+    font-family: 'Ruda', sans-serif;
+    font-size: 20px;
+
+}
+.mobile-no{
+    margin-left: 15px;
+}
+.address{
+    margin-left: 15px;
+}
+.mail{
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+    font-family: 'Ruda', sans-serif;
+    font-size: 20px;
+    padding-bottom: 30px;
+}
+.id{
+    margin-left: 30px;
+}
+footer{
+    margin-top: 200px;
+    display: flex;
+    align-content: space-between;
+    justify-content: space-around;
+}
+.para0{
+    border-top: 5px solid black;
+    font-family: 'Ruda', sans-serif;
+    font-size: 25px;
+    text-align: left;
+}
+.down-face{
+    position: absolute;
+    top: 3262px;
+    left: 250px;
+    background: transparent;
+}
+.upper-face{
+    position: absolute;
+    top: 3200px;
+    left: 245px;
+    background: transparent;
+    top: 3243px;
+}
+.bowl{
+    position: absolute;
+    background: transparent;
+    top: 3270px;
+    left: 357px;
+}
+.plate{
+    position: absolute;
+    background: transparent;
+    top: 3253px;
+    left: 325px;
+}
